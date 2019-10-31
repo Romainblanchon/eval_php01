@@ -19,8 +19,7 @@ isVoyelle($lettre) : boolean
 Tester votre fonction avec les paramètres suivants:
 'a', 'b', 'c', 'A', 'E', true, false, 0, 1, 2 et 'bonjour' */
 
-function isvoyelle ($parametre)
-echo'bonjour'
+
 
 /*
 2 - écrire une fonction qui supprime les voyelles d'une chaine de caractère.
